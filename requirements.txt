@@ -6,3 +6,4 @@ yfinance
 financedatabase
 plotly
 stocknews
+scipy
