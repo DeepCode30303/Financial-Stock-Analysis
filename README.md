@@ -73,7 +73,7 @@ project_root/
 │   ├── __init__.py     # Package initialization
 │   ├── login.py        # Login/signup functionality
 │   └── db.py           # Database operations
-├── pages/              # Application pages
+├── app_pages/              # Application pages
 │   ├── __init__.py     # Package initialization
 │   ├── portfolio.py    # Portfolio view
 │   ├── stock_details.py # Stock analysis
